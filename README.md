@@ -1,2 +1,0 @@
-# DocRedux
-Created with CodeSandbox
